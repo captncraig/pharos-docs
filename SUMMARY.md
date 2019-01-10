@@ -7,6 +7,8 @@
   * [Host Requirements](requirements.md)
   * [Using Terraform](terraform.md)
 * [Configure Cluster](configuration.md)
+* [Networking](networking/README.md)
+  * [Custom Networking](networking/custom_networking.md)
 * [Addons](addons/README.md)
   * [Cert Manager](addons/cert-manager.md)
   * [Helm](addons/helm.md)
